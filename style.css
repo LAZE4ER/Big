@@ -46,3 +46,51 @@
 .i{
     margin-left: 15px;
 }
+.count{
+    background-color: #181818;
+}
+.tit{
+    font-family: "x";
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+    font-size: 80px;
+    margin-bottom: 25px;
+    color: white;
+}
+.aa{
+    margin:  0 auto;
+    font-size: 20px;
+    max-width: 600px;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-family: "x";
+    margin-top: 40px;
+
+}
+.ty{
+    display: inline-block;
+    height: 65px;
+    width: 168px;
+    font-size: 17px;
+    background-color: #4452FE;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-family: "x";
+    margin: auto;
+    line-height: 65px;
+    margin-top: 95px;
+}
+.vb{
+background-color: transparent;
+border: 2px solid white;
+box-sizing: border-box;
+}
+.zx{
+    max-width: 375px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
