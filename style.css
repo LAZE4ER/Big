@@ -311,5 +311,12 @@ box-sizing: border-box;
         margin-bottom: 75px;
     }
 }
+.whitebtn:hover{
+    background-color: white;
+    color: #181818;
+}
+.bluebtn:hover{
+    background-color: #182bff;
+}
 
 
