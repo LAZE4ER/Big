@@ -318,5 +318,8 @@ box-sizing: border-box;
 .bluebtn:hover{
     background-color: #182bff;
 }
+.content_item:hover{
+    transform: scale(1.1);
+}
 
 
